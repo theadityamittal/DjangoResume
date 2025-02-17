@@ -56,6 +56,7 @@ This project is a simple resume website built with Django. The website displays 
 1. **Apply Migrations:**
 
    ```bash
+   cd djangoresume
    python manage.py migrate
    ```
 
