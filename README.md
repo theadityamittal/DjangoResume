@@ -22,7 +22,7 @@ This project is a simple resume website built with Django. The website displays 
 
    ```bash
    git clone https://github.com/theadityamittal/DjangoResume.git
-   cd djangoresume
+   cd DjangoResume
    ```
 
 2. **Create a Virtual Environment:**
